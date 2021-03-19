@@ -1,1 +1,7 @@
-md - Murk ap document
+Shell komandas
+
+```
+git status
+git add
+git commit
+```
